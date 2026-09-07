@@ -1,4 +1,4 @@
-# CASE-01 PowerShell Command Execution
+# CASE-001 PowerShell Command Execution
 
 ## Обзор
 
@@ -27,7 +27,7 @@ PowerShell с использованием Atomic Red Team.
 
 Тест имитирует выполнение команд через PowerShell на Windows-хосте.
 
-![Atomic Red Team]()
+![Atomic Red Team - T1059.001 PowerShell Command Execution](Powershell.ART.png)
 
 ---
 
