@@ -27,7 +27,8 @@ PowerShell с использованием Atomic Red Team.
 
 Тест имитирует выполнение команд через PowerShell на Windows-хосте.
 
-![ART](./PowerShell.ART.png)
+<img width="1841" height="588" alt="00-atomic-red-team" src="https://github.com/user-attachments/assets/8d0c2c42-7457-4c1a-99fc-59cfd59ec8c8" />
+
 
 
 ---
@@ -39,7 +40,7 @@ PowerShell с использованием Atomic Red Team.
 В Wazuh обнаружены события **Windows Event ID 4688 — Process Creation**,
 связанные с выполненной активностью.
 
-![Wazuh Detection](../screenshots/CASE-001/01-wazuh-process-creation.png)
+<img width="923" height="1043" alt="Снимок экрана от 2026-09-07 10-50-18" src="https://github.com/user-attachments/assets/7e996c78-fef9-4616-b472-ba97e080bb57" />
 
 ---
 
@@ -60,7 +61,8 @@ PowerShell с использованием Atomic Red Team.
 В событиях была обнаружена активность PowerShell и связанных процессов,
 соответствующая выполненному тесту Atomic Red Team.
 
-![Process Details](../screenshots/CASE-001/02-suspicious-command.png)
+<img width="923" height="1043" alt="Снимок экрана от 2026-09-07 10-53-02" src="https://github.com/user-attachments/assets/94a9d1fa-0c19-49b3-8132-15f39f9af3c3" />
+
 
 ---
 
@@ -91,7 +93,8 @@ PowerShell с использованием Atomic Red Team.
 - информация о хосте;
 - результат выполнения Atomic Red Team.
 
-![Event Evidence](../screenshots/CASE-001/03-powershell-execution.png)
+<img width="923" height="1043" alt="Снимок экрана от 2026-09-07 10-59-02" src="https://github.com/user-attachments/assets/2c4a423c-7ffb-469c-9de8-3d2b6d2d1bc5" />
+
 
 ---
 
