@@ -133,7 +133,7 @@ PowerShell с использованием Atomic Red Team.
 
 ---
 
-## Вывод аналитика
+## Вывод
 
 Atomic Red Team успешно сгенерировал активность, соответствующую
 MITRE ATT&CK T1059.001 — PowerShell.
