@@ -27,7 +27,7 @@ PowerShell с использованием Atomic Red Team.
 
 Тест имитирует выполнение команд через PowerShell на Windows-хосте.
 
-![ART](Powershell.ART.png)
+![ART](PowerShell.ART.png)
 
 
 ---
