@@ -26,3 +26,11 @@ Whitelisting смотрит "кто запускается?" и видит ле�
 Шаг №2:
 Defense Evasion: Squiblydoo() через Atomic Red Team (T1218.010)
 <img width="1486" height="819" alt="Снимок9990" src="https://github.com/user-attachments/assets/d20ec78c-847f-4397-b7fc-47e30e7d8976" />
+
+Шаг №3:
+Persistence: scheduled task (T1053.005)
+<img width="1413" height="818" alt="Снимок99901" src="https://github.com/user-attachments/assets/b84937f7-bdff-468a-aee0-832474b66b03" />
+это создаёт две тестовые scheduled task, которые при срабатывании просто открывают калькулятор (calc.exe), классический безобидный "payload" для тестов, вместо реальной малвари.
+
+Шаг №4: 
+C2 beaconing на Kali (T1071.001)
